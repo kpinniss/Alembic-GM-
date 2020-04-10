@@ -1,0 +1,22 @@
+[
+	{
+		"MaterialId": 0,
+		"MaterialName": "Eyeball",
+		"MaterialSpriteName": "sprEyeball"
+	},
+	{
+		"MaterialId": 1,
+		"MaterialName": "Leaf",
+		"MaterialSpriteName": "sprLeaf"
+	},
+	{
+		"MaterialId": 2,
+		"MaterialName": "Mushroom",
+		"MaterialSpriteName": "sprShroom"
+	},
+	{
+		"MaterialId": 3,
+		"MaterialName": "VialOfBlood",
+		"MaterialSpriteName": "sprBloodVial"
+	}
+]

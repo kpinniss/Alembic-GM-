@@ -1,0 +1,37 @@
+[
+  {
+    "RecipieId": 0,
+    "MaterialId1": 0,
+    "MaterialId2": 1,
+    "MaterialId3": -1,
+    "ResultPotionId": 0
+  },
+  {
+    "RecipieId": 1,
+    "MaterialId1": 0,
+    "MaterialId2": 0,
+    "MaterialId3": 0,
+    "ResultPotionId": 1
+  },
+  {
+    "RecipieId": 2,
+    "MaterialId1": 2,
+    "MaterialId2": 1,
+    "MaterialId3": 0,
+    "ResultPotionId": 2
+  },
+  {
+    "RecipieId": 3,
+    "MaterialId1": 3,
+    "MaterialId2": 3,
+    "MaterialId3": 2,
+    "ResultPotionId": 3
+  },
+  {
+    "RecipieId": 4,
+    "MaterialId1": 1,
+    "MaterialId2": 3,
+    "MaterialId3": 2,
+    "ResultPotionId": 4
+  }
+]

@@ -1,0 +1,12 @@
+[
+	{
+		"PotionBaseId": 0,
+		"PotionBaseName": "Water",
+		"PotionSpriteName": "TODO"
+	},
+	{
+		"PotionBaseId": 1,
+		"PotionBaseName": "Lava",
+		"PotionSpriteName": "TODO"
+	},
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "PotionId": 0,
+    "PotionName": "Basic Potion",
+    "PotionObject": "objBasicPotion",
+    "PotionSprite": "sprHealthPotion"
+  },
+  {
+    "PotionId": 1,
+    "PotionName": "Speed Potion",
+    "PotionObject": "objBasicPotion",
+    "PotionSprite": "sprSpeedPotion"
+  },
+  {
+    "PotionId": 2,
+    "PotionName": "Damage Potion",
+    "PotionObject": "objBasicPotion",
+    "PotionSprite": "sprDamageUpPotion"
+  },
+  {
+    "PotionId": 3,
+    "PotionName": "Range Potion",
+    "PotionObject": "objBasicPotion",
+    "PotionSprite": "sprRangeUpPotion"
+  },
+  {
+    "PotionId": 4,
+    "PotionName": "Attack Speed Potion",
+    "PotionObject": "objBasicPotion",
+    "PotionSprite": "sprAttackSpeedUpPotion"
+  }
+]
